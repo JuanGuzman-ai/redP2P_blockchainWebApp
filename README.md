@@ -8,7 +8,7 @@ Para poder correr el proyecto debemos tener instalado python3, pip y posteriorme
 
 ```bash
 pip install flask
-pip instal request
+pip install request
 ```
 
 ## Uso
